@@ -1,2 +1,2 @@
-Hello this is Norah
+Hello from conflict-test branch
 I practice on local repository basics
