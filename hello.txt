@@ -1,2 +1,2 @@
-Hello this is Norah
+Hello from main branch
 I practice on local repository basics
