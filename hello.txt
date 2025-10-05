@@ -1,1 +1,2 @@
 Hello this is Norah
+I practice on local repository basics
